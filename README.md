@@ -40,6 +40,7 @@ Ticapsoriginal analisys tags on google trends
 <pre><code>python trendtopic.py
 </code></pre>
 
+![](https://desembo.la/assets/ticapstrendsanal.png)
 
 ## quality:
 * [`100% pycodestyle coverage`](https://pypi.org/project/pycodestyle/)
